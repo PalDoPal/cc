@@ -1,4 +1,4 @@
-# Memories Manager (MERN STACK APP)
+## Memories Manager (MERN STACK APP)
 
 ### Memories Manager Applciation, where users can add, delete, update and like memories, and view each other's memories !
 
