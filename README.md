@@ -4,7 +4,7 @@
 
 ### ⚡ Frontend Deployed at : link: https://shivang-memories-frontend.herokuapp.com
 
-### ⚡ Backend Deployed at  : link: https://shivang-memories-backend.herokuapp.com
+### ⚡ Backend Deployed  at : link: https://shivang-memories-backend.herokuapp.com
 
 #### Frontend Repo : 
 #### Backend Repo : 
