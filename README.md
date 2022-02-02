@@ -6,8 +6,8 @@
 
 ### ⚡ Backend Deployed  at : https://shivang-memories-backend.herokuapp.com
 
-#### Frontend Repo : 
-#### Backend Repo : 
+#### Frontend Repo : https://github.com/shivangguptax/memories-frontend
+#### Backend Repo : https://github.com/shivangguptax/memories-backend
 
 ## Interface
 ![image](https://user-images.githubusercontent.com/90856664/152206307-95e1c6f8-64c6-42ca-9285-c8d78bd136e8.png)
