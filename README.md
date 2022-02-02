@@ -1,4 +1,4 @@
-# :closed_book: Memories Manager (Full-Stack App)
+# :closed_book: Memories Manager (MERN STACK APP)
 
 ### _Memories Manager Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
 
