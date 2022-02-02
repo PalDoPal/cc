@@ -1,4 +1,4 @@
-# :closed_book: Memories Manager (MERN STACK APP)
+# Closed Book on Samsung One UI 4.0 Memories Manager (MERN STACK APP)
 
 ### Memories Manager Applciation, where users can add, delete, update and like memories, and view each other's memories !
 
