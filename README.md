@@ -2,9 +2,9 @@
 
 ### Memories Manager Applciation, where Users can add, delete, update and like memories, and view each other's memories !
 
-### ⚡ Frontend Deployed at: :link: https://github.com/shivangguptax/memories-frontend
+### ⚡ Frontend Deployed at: :link: https://shivang-memories-frontend.herokuapp.com
 
-### ⚡ Backend Deployed at: :link: https://github.com/shivangguptax/memories-backend
+### ⚡ Backend Deployed at: :link: https://shivang-memories-backend.herokuapp.com
 
 ## Interface
 
