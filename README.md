@@ -1,6 +1,6 @@
 # :closed_book: Memories Manager (MERN STACK APP)
 
-### Memories Manager Applciation, where Users can add, delete, update and like memories, and view each other's memories !
+### Memories Manager Applciation, where users can add, delete, update and like memories, and view each other's memories !
 
 ### ⚡ Frontend Deployed at: :link: https://shivang-memories-frontend.herokuapp.com
 
@@ -14,15 +14,8 @@
 
 
 
-## Mobile Interface
 
-<img src='./projectImages/mobile.png/' />
-<img src='./projectImages/mobile2.png/' />
 
-## Run Locally
-
-- Run this command `git clone https://github.com/developer-junaid/MERN-Memories-App.git`
-- You are now in the dev environment and you can play around
 
 ## Features
 
@@ -32,7 +25,6 @@
 - View Other user's memories
 - Recommended Posts
 - Mobile Responsive
-- Open Source (Tweak it and use it) :)
 - Pagination
 - Validation
 
