@@ -2,7 +2,7 @@
 
 ### _Memories Manager Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
 
-### Link :link: https://github.com/shivangguptax/memories-frontend
+### Frontend Deployed at: :link: https://github.com/shivangguptax/memories-frontend
 
 ### Backend Deployed at: :link: https://github.com/shivangguptax/memories-backend
 
