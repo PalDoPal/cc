@@ -6,14 +6,9 @@
 
 ### Backend Deployed at: :link: https://github.com/shivangguptax/memories-backend
 
-### Video Demo: https://youtu.be/jjcGWCJwFo0
-
 ## Interface
 
-<img src='./projectImages/home.png/' />
-<img src='./projectImages/details.png/' />
-<img src='./projectImages/signIn.png/' />
-<img src='./projectImages/signUp.png/' />
+
 
 
 ## Mobile Interface
